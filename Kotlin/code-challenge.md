@@ -19,3 +19,7 @@ existia na plataforma. Com isso resolveu falar com o Gerente, que então entrou 
 Baseado no código abaixo, formule uma explicação do que pode ter ocorrido.
 
 O Controller da API no arquivo challenge.kt
+
+## Resposta 
+
+O controle de acesso e feito apenas por ROLE, por tanto um Corretor pode apagar qualquer imóvel incluindo os que pertencem a outros Corretores, para assim garantir que vai ganhar a bonificação.
